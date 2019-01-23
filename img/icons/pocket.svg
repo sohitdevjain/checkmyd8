@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="10px" viewBox="0 0 18 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>C77F491A-DE6C-47CC-911F-216038BAD963</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#ED84A3" offset="0%"></stop>
+            <stop stop-color="#FF6058" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="91.1311345%" y1="93.8675885%" x2="20.130637%" y2="39.80221%" id="linearGradient-2">
+            <stop stop-color="#FCC374" offset="0%"></stop>
+            <stop stop-color="#FF6058" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/arrow_icon_light" fill="url(#linearGradient-2)">
+            <g id="pocket" transform="translate(9.000000, 5.000000) scale(1, -1) translate(-9.000000, -5.000000) ">
+                <path d="M9.0000294,10 C8.5700558,10 8.15764174,9.83917959 7.85356379,9.55289121 L0.474871934,2.60580363 C-0.158290645,2.00968317 -0.158290645,1.0432108 0.474871934,0.447090342 C1.10795612,-0.148956309 2.13456218,-0.149030114 2.76780315,0.447090342 L9.0000294,6.31478437 L15.2322556,0.447090342 C15.8654966,-0.149030114 16.8920243,-0.149030114 17.5251869,0.447090342 C18.158271,1.0432108 18.158271,2.00968317 17.5251869,2.60572983 L10.146495,9.55289121 C9.84241705,9.83917959 9.43008138,10 9.0000294,10" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

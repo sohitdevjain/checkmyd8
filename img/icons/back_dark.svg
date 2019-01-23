@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/back_dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.003515625 0.0383721519 30 0.0383721519 30 22.9965063 0.003515625 22.9965063"></polygon>
+    </defs>
+    <g id="Icons/back_dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" x="0" y="0" width="70" height="70"></rect>
+        <g id="left-arrow" transform="translate(20.000000, 23.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M28.7881641,12.7234253 L1.21183594,12.7234253 C0.542578125,12.7234253 0,12.1842937 0,11.519157 C0,10.8540785 0.542578125,10.3148886 1.21183594,10.3148886 L28.7881641,10.3148886 C29.4574805,10.3148886 30,10.8540785 30,11.519157 C30,12.1842937 29.4574805,12.7234253 28.7881641,12.7234253" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            <path d="M11.5529883,23 C11.2428516,23 10.9326562,22.882438 10.6960547,22.6472557 L0.354960938,12.3707392 C-0.118300781,11.9004329 -0.118300781,11.1379392 0.354960938,10.6675747 L10.6960547,0.391058228 C11.1693164,-0.0791898734 11.9366016,-0.0791898734 12.4098633,0.391058228 C12.8831836,0.861364557 12.8831836,1.62385823 12.4098633,2.09416456 L2.92570312,11.519157 L12.4098633,20.9441494 C12.8831836,21.4144557 12.8831836,22.1769494 12.4098633,22.6472557 C12.1732617,22.882438 11.863125,23 11.5529883,23" id="Fill-3" fill="#FFFFFF" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

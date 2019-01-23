@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/verified_profile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons/verified_profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15.7919138,3.78485766 L8.99243265,10.5843388 L7.05985714,8.65176327 C6.76318776,8.35505714 6.2821102,8.35505714 5.98540408,8.65176327 C5.68869796,8.94846939 5.68869796,9.4295102 5.98540408,9.72621633 L8.45522449,12.1960367 C8.60355918,12.3444082 8.79803265,12.4185388 8.99246939,12.4185388 C9.18690612,12.4185388 9.38130612,12.3444082 9.52967755,12.1960367 L16.7175468,5.00816753 C17.530367,6.31145919 18,7.85088526 18,9.5 C18,14.1944204 14.1944204,18 9.5,18 C4.80557963,18 1,14.1944204 1,9.5 C1,4.80557963 4.80557963,1 9.5,1 C11.9939427,1 14.2370246,2.07406315 15.7919138,3.78485766 Z" id="Combined-Shape" fill="#5DDD91"></path>
+    </g>
+</svg>

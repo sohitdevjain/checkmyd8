@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/tinder_logo_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 13 0 13 17 0 17"></polygon>
+        <linearGradient x1="91.1311345%" y1="93.8675885%" x2="20.130637%" y2="39.80221%" id="linearGradient-3">
+            <stop stop-color="#FCC374" offset="0%"></stop>
+            <stop stop-color="#FF6058" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons/tinder_logo_active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tinder" transform="translate(3.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M12.9982994,10.4761165 C12.7664588,7.08683527 10.9789035,3.77511442 7.67463452,0.612139459 C7.32904048,0.280648633 7.03219796,0.00546874864 7.01486409,0.00015639566 C6.99753022,-0.00515595732 7.03003123,0.125527926 7.0863663,0.291273339 C7.23262083,0.72157393 7.35070782,1.30699523 7.3972926,1.8318557 C7.53163009,3.62105619 7.28570581,5.70243608 4.90338204,6.9774008 C4.5415375,7.1580208 4.57512188,7.1218968 4.50361966,7.05921103 C4.40936675,6.9774008 4.19377674,6.69584609 4.06268934,6.43341585 C3.85359954,6.01586491 3.76151335,5.65037502 3.69867807,4.98314349 L3.65751013,4.55709278 L3.24366398,5.03414208 C2.74639859,5.60893867 2.3141352,6.17204808 1.89703895,6.79253091 C-0.396448729,10.2030615 -0.622872406,13.3150379 1.28602003,15.2126104 C2.78648316,16.6554455 4.72354314,17.2950527 7.52729662,16.871127 C10.8131484,16.4312642 13.0708849,14.360509 12.9982994,10.4761165" id="Fill-1" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

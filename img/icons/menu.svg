@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="20px" viewBox="0 0 26 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>90583F53-BA6F-4A04-BD68-36314A890248</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 69.9966943 0 69.9966943 70 0 70"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Buttons/menu_dark_btn" transform="translate(-22.000000, -25.000000)">
+            <g id="menu">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <g id="Group" mask="url(#mask-2)" fill="#FFFFFF">
+                    <g transform="translate(22.000000, 25.000000)">
+                        <path d="M24.9497422,20 L1.05025781,20 C0.470234375,20 0,19.552316 0,19 C0,18.447684 0.470234375,18 1.05025781,18 L24.9497422,18 C25.5298164,18 26,18.4477323 26,19 C26,19.552316 25.5298164,20 24.9497422,20" id="Fill-1"></path>
+                        <path d="M8.72710156,11 C8.32554688,11 8,10.5522677 8,10 C8,9.44773233 8.32554688,9 8.72710156,9 L25.2728984,9 C25.6744883,9 26,9.44773233 26,10 C26,10.5522677 25.6744883,11 25.2728984,11 L8.72710156,11 Z" id="Fill-3"></path>
+                        <path d="M1.05025781,2 C0.470234375,2 0,1.55226767 0,1 C0,0.447732328 0.470234375,0 1.05025781,0 L24.9497422,0 C25.5298164,0 26,0.447732328 26,1 C26,1.55226767 25.5298164,2 24.9497422,2 L1.05025781,2 Z" id="Fill-3-Copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

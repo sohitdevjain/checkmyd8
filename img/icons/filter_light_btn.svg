@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Buttons/filter_light_btn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 33 0 33 29.9997 0 29.9997"></polygon>
+    </defs>
+    <g id="Buttons/filter_light_btn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(19.000000, 20.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M15,24.5727 L18,26.0727 L18,15.6897 C18,15.3357 18.126,14.9922 18.354,14.7222 L28.2675,2.9997 L4.7325,2.9997 L14.646,14.7222 C14.874,14.9922 15,15.3357 15,15.6897 L15,24.5727 Z M19.5,29.9997 C19.2705,29.9997 19.041,29.9472 18.8295,29.8422 L12.8295,26.8422 C12.321,26.5872 12,26.0682 12,25.4997 L12,16.2387 L0.354,2.4687 C-0.0225,2.0232 -0.1065,1.3977 0.1395,0.8682 C0.3855,0.3387 0.9165,-0.0003 1.5,-0.0003 L31.5,-0.0003 C32.085,-0.0003 32.6145,0.3387 32.8605,0.8682 C33.1065,1.3977 33.0225,2.0232 32.646,2.4687 L21,16.2387 L21,28.4997 C21,29.0202 20.73,29.5017 20.2875,29.7762 C20.0475,29.9247 19.7745,29.9997 19.5,29.9997 Z" id="Fill-1" fill="#260E0D" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

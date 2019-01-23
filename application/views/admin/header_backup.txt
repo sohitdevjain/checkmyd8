@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
+  <link rel="icon" type="image/png" href="../assets/img/favicon.png">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>
+    Dating | <?php echo $pageTitle;?>
+  </title>
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+  <!--     Fonts and icons     -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+  <!-- CSS Files -->
+  <link href="<?php echo site_url('assets/assets/css/bootstrap.min.css');?>" rel="stylesheet" />
+  <link href="<?php echo site_url('assets/assets/css/now-ui-dashboard.minf700.css?v=1.0.1');?>" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/4.0.1/min/dropzone.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body class="">
+  <div class="wrapper ">
+    <div class="sidebar" data-color="orange">
+      <!--
+        Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
+    -->
+      <div class="logo">
+        <a href="<?php echo site_url('AdminManager/dashboard');?>" class="simple-text logo-mini">
+          d8
+        </a>
+        <a href="<?php echo site_url('AdminManager/dashboard');?>" class="simple-text logo-normal">
+          checkmyd8
+        </a>
+      </div>
+      <div class="sidebar-wrapper">
+        <ul class="nav">
+          <li class="<?php echo @$dashboard;?>">
+            <a href="<?php echo site_url('AdminManager/dashboard');?>">
+              <i class="now-ui-icons design_app"></i>
+              <p>Dashboard</p>
+            </a>
+          </li>
+          <li class="<?php echo @$users;?>">
+            <a href="<?php echo site_url('AdminManager/users');?>">
+              <i class="now-ui-icons design_app"></i>
+              <p>Users</p>
+            </a>
+          </li>
+		     <li class="<?php echo @$testimonial_menu;?>">
+            <a href="<?php echo site_url('AdminManager/testimonial');?>">
+              <i class="now-ui-icons design_app"></i>
+              <p>Testimonial</p>
+            </a>
+          </li>
+           <li class="<?php echo @$contact_us;?>">
+            <a href="<?php echo site_url('AdminManager/contact');?>">
+              <i class="now-ui-icons design_app"></i>
+              <p>Contact Us Form</p>
+            </a>
+          </li>
+          <li class="<?php echo @$contactus;?>">
+              <a href="<?php echo site_url('AdminManager/contactus');?>">
+              <i class="now-ui-icons design_app"></i>
+              <p>Contact Us </p>
+            </a>
+          </li>
+           <li class="<?php echo @$faqestion;?>">
+              <a href="<?php echo site_url('AdminManager/faqestion');?>">
+              <i class="now-ui-icons design_app"></i>
+              <p>Faq </p>
+            </a>
+          </li>
+           <li class="<?php echo @$transactionfee;?>">
+              <a href="<?php echo site_url('AdminManager/transactionfee');?>">
+              <i class="now-ui-icons design_app"></i>
+              <p>Transaction Fee</p>
+            </a>
+          </li>
+          <li class="<?php echo @$posttrade;?>">
+              <a href="<?php echo site_url('AdminManager/posttrade');?>">
+              <i class="now-ui-icons design_app"></i>
+              <p>Post Trade</p>
+            </a>
+          </li> 
+            <li class="<?php echo @$transaction;?>">
+              <a href="<?php echo site_url('AdminManager/transaction');?>">
+              <i class="now-ui-icons design_app"></i>
+              <p>Transaction</p>
+            </a>
+          </li>
+          <li class="<?php echo @$Setting;?>">
+          <a class="dropdown-btn"> 
+           <i class="now-ui-icons design_app"></i>
+            <p>Setting<i class="fa fa-caret-down" style="float:right;"></i></p>
+           
+          </a>
+          <div class="dropdown-container">
+            <a href="<?php echo site_url('AdminManager/btcheading');?>"><p>Heading<i class="fa fa-caret-right" style="float:right;"></i></p></a>
+            <a href="<?php echo site_url('AdminManager/ourPartners');?>"><p>Our Partners<i class="fa fa-caret-right" style="float:right;"></i></p></a>
+            <a href="<?php echo site_url('AdminManager/work');?>"><p>How It Works?<i class="fa fa-caret-right" style="float:right;"></i></p></a>
+            <a href="<?php echo site_url('AdminManager/aboutCoin');?>"><p>About Icox Coin<i class="fa fa-caret-right" style="float:right;"></i></p></a>
+            <a href="<?php echo site_url('AdminManager/viewGuid');?>"><p>Guid<i class="fa fa-caret-right" style="float:right;"></i></p></a>
+             <a href="<?php echo site_url('AdminManager/aboutUs');?>"><p>Aboutus<i class="fa fa-caret-right" style="float:right;"></i></p></a>
+          </div>
+        </li>
+        </ul>
+      </div>
+    </div>
+

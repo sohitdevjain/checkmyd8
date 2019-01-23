@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/mobile_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 17.9706667 0 17.9706667 29.99 0 29.99"></polygon>
+        <linearGradient x1="91.1311345%" y1="93.8675885%" x2="20.130637%" y2="39.80221%" id="linearGradient-3">
+            <stop stop-color="#FCC374" offset="0%"></stop>
+            <stop stop-color="#FF6058" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons/mobile_active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" x="0" y="0" width="70" height="70"></rect>
+        <g id="iphone" transform="translate(26.000000, 20.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M10.0051667,26.22 C10.0051667,26.7831667 9.54883333,27.2401667 8.985,27.2401667 C8.42183333,27.2401667 7.96483333,26.7831667 7.96483333,26.22 C7.96483333,25.6563333 8.42183333,25.1998333 8.985,25.1998333 C9.54883333,25.1998333 10.0051667,25.6563333 10.0051667,26.22 Z" id="Fill-1" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+            <path d="M14.8698333,0 L3.10033333,0 C1.39066667,0 0,1.39066667 0,3.10033333 L0,26.8996667 C0,28.6093333 1.39066667,30 3.10033333,30 L14.8698333,30 C16.5795,30 17.9706667,28.6093333 17.9706667,26.8996667 L17.9706667,3.10033333 C17.9706667,1.39066667 16.5795,0 14.8698333,0 Z M2,22.72 L15.9706667,22.72 L15.9706667,6.067 L2,6.067 L2,22.72 Z M3.10033333,2 L14.8698333,2 C15.4765,2 15.9706667,2.4935 15.9706667,3.10033333 L15.9706667,4.067 L2,4.067 L2,3.10033333 C2,2.4935 2.4935,2 3.10033333,2 Z M14.8698333,28 L3.10033333,28 C2.4935,28 2,27.5065 2,26.8996667 L2,24.72 L15.9706667,24.72 L15.9706667,26.8996667 C15.9706667,27.5065 15.4765,28 14.8698333,28 Z" id="Fill-3" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
